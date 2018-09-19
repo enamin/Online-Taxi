@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Amin Enami My Taxi Test</string>
+    <string name="error">It seems something went wrong...</string>
+    <string name="taxi">Taxi</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="toolbar_map">Map</string>
+    <string name="toolbar_vehicle_list">Available Vehicles</string>
+    <string name="pooling">Pooling</string>
+    <string name="transitionName_driver_card">transitionName_driver_card</string>
+    <string name="close">Close</string>
+</resources>
